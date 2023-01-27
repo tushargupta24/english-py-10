@@ -1,0 +1,180 @@
+
+      {
+        "english-py-10":[
+            {
+            "id":1,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2019 Set-1",
+            "download":"assets/images/exam-10/english-10/english-19-set-1.pdf",
+            "view":"assets/images/exam-10/english-10/english-19-set-1.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":2,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2019 Set-2",
+            "download":"assets/images/exam-10/english-10/english-19-set-2.pdf",
+            "view":"assets/images/exam-10/english-10/english-19-set-2.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":3,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2019 Set-3",
+            "download":"assets/images/exam-10/english-10/english-19-set-3.pdf",
+            "view":"assets/images/exam-10/english-10/english-19-set-3.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":4,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2019 Second Set-1",
+            "download":"assets/images/exam-10/english-10/english-19-second-set-1.pdf",
+            "view":"assets/images/exam-10/english-10/english-19-second-set-1.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":5,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2020 Set-1",
+            "download":"assets/images/exam-10/english-10/english-20-set-1.pdf",
+            "view":"assets/images/exam-10/english-10/english-20-set-1.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":6,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2020 Set-2",
+            "download":"assets/images/exam-10/english-10/english-20-set-2.pdf",
+            "view":"assets/images/exam-10/english-10/english-20-set-2.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          }, {
+            "id":7,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2020 Set-3",
+            "download":"assets/images/exam-10/english-10/english-20-set-3.pdf",
+            "view":"assets/images/exam-10/english-10/english-20-set-3.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":8,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2022 Set-1",
+            "download":"assets/images/exam-10/english-10/english-22-set-1.pdf",
+            "view":"assets/images/exam-10/english-10/english-22-set-1.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":9,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2022 Set-2",
+            "download":"assets/images/exam-10/english-10/english-22-set-2.pdf",
+            "view":"assets/images/exam-10/english-10/english-22-set-2.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":10,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2022 Set-3",
+            "download":"assets/images/exam-10/english-10/english-22-set-3.pdf",
+            "view":"assets/images/exam-10/english-10/english-22-set-3.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":11,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2022 Second Set-1",
+            "download":"assets/images/exam-10/english-10/english-22-second-set-1.pdf",
+            "view":"assets/images/exam-10/english-10/english-22-second-set-1.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":12,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2022 Second Set-2",
+            "download":"assets/images/exam-10/english-10/english-22-second-set-2.pdf",
+            "view":"assets/images/exam-10/english-10/english-22-second-set-2.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":13,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2022 Second Set-3",
+            "download":"assets/images/exam-10/english-10/english-22-second-set-3.pdf",
+            "view":"assets/images/exam-10/english-10/english-22-second-set-3.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":14,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2022 Third Set-1",
+            "download":"assets/images/exam-10/english-10/english-22-third-set-1.pdf",
+            "view":"assets/images/exam-10/english-10/english-22-third-set-1.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":15,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2022 Third Set-2",
+            "download":"assets/images/exam-10/english-10/english-22-third-set-2.pdf",
+            "view":"assets/images/exam-10/english-10/english-22-third-set-2.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":16,
+            "subject":"english",
+            "image":"english",
+            "description":"English class 10th - Previous Year Paper 2022 Third Set-3",
+            "download":"assets/images/exam-10/english-10/english-22-third-set-3.pdf",
+            "view":"assets/images/exam-10/english-10/english-22-third-set-3.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          }
+        ]
+      }
